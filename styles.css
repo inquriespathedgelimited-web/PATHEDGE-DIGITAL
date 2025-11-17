@@ -1,0 +1,7 @@
+body{font-family:Arial;background:#0D2946;color:white;margin:0;padding:0;}
+header{background:#07101f;padding:20px;text-align:center;color:#D4A743;}
+.hero{text-align:center;padding:40px;}
+.hero img{width:260px;border-radius:12px;}
+section{padding:20px;}
+button{padding:10px 18px;background:#D4A743;border:0;border-radius:8px;cursor:pointer;}
+input,textarea{width:100%;padding:8px;margin:4px 0;border-radius:6px;border:1px solid #ccc;}
